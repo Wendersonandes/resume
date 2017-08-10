@@ -34,6 +34,6 @@ Acredito que a melhor forma de programar é buscar o equilíbrio entre a perfei�
 
 ## Formação
 
-** Graduação em Comunicação Social com ênfase em Jornalismo pela Faculdade Estácio de Sá - BH
+**Graduação em Comunicação Social com ênfase em Jornalismo pela Faculdade Estácio de Sá - BH
 
-** Especialização em Artes Plásticas e Contemporaneidade, UEMG - BH
+**Especialização em Artes Plásticas e Contemporaneidade, UEMG - BH
