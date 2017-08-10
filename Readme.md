@@ -11,7 +11,7 @@
 **Github:** wendersonandes
 
 ## Sobre mim
-Sou focado em objetivos, busco compartilhar conhecimentos e boas práticas, ao mesmo tempo que busco aprender mais sobre como criar aplicações focadas na experiência do usuário. Adoro trabalhar com outros programadores, mas sou pró ativo e consigo ser um intraempreendedor dentro dos projetos que faço parte.
+Sou focado em objetivos, busco compartilhar conhecimentos e boas práticas, ao mesmo tempo que busco aprender mais sobre como criar aplicações focadas na experiência do usuário. Adoro trabalhar com outros programadores, sou pró ativo e busco ser um intraempreendedor dentro dos projetos que faço parte.
 Acredito que a melhor forma de programar é buscar o equilíbrio entre a perfeição e a entrega dos resultados.
 
 
